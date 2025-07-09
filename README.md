@@ -1,10 +1,12 @@
-Alberto Sosa.
+
 Título: Reflexionismo Técnico Pragmático
 Autor: Carlos Alberto Sosa  
-Publicado: julio de 2025  
+Publicado: 9 de julio de 2025  
 Licencia: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 
+
 ------
+
 
 Descripción:
 
@@ -54,7 +56,7 @@ Para seleccionar la solución real al problema real, hay que evitar una interven
 La solución real es la que se puede fundamentar con razonamiento y sentido común, es decir: un argumento real. La solución debe ser argumentada, lejos del fanatismo parcial o el impulso emocional.
 
 # Estructura Conceptual.
-La ecuación, se vería así:
+La estructura, se vería así:
 
 - Un argumento pragmático que justifica una solución pragmática.  
 ⬇️  
@@ -94,7 +96,7 @@ Este trabajo está bajo la licencia **Creative Commons Atribución-NoComercial-S
 
 🔗 [Ver licencia completa en Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 
----
+-----
 
 Contacto:
 depredadorsaturno@gmail.com
