@@ -84,7 +84,7 @@ Dicho esto, decreto y me autoproclamo como el primer **reflexionista técnico pr
 -----
 
 
-Licencia
+Licencia.
 
 Este trabajo está bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)**.
 
