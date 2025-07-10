@@ -28,7 +28,7 @@ Texto Fundacional:
 # Reflexionismo Técnico Pragmático #
 
 **Autor:** Carlos Alberto Sosa  
-**Publicado:** julio de 2025  
+**Publicado:** 9 de julio de 2025  
 **Licencia:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es)
 
 
