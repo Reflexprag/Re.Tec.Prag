@@ -41,7 +41,6 @@ Ejemplo: el mismo título “Reflexionismo Técnico Pragmático” puede ser bus
 
 Esta corriente de pensamiento debe ser entendida como herramienta: como una ayuda estructurada, una guía opcional, o como punto de partida para elaborar un concepto propio, personal, adaptado a uno mismo y a su necesidad. Después de todo, así nació esta corriente: de la necesidad de reflexionar gracias a otros conceptos. 
 
-“La libertad es incontenible”.
 
 # Fundamento.
 Como la filosofía tradicional solo sirve para generar problemas —y, como mucho, uno puede usarla para desmenuzar una idea o concepto— he desarrollado una corriente de pensamiento llamada Reflexionismo Técnico Pragmático. Tiene como único objetivo solucionar un problema a través de la reflexión pragmática profunda, utilizando dos procesos clave: primero, el **Criterio Objetivo**; segundo, el **Razonamiento Argumental**. Así se busca alcanzar la solución práctica real más conveniente, satisfactoria y de menor daño posible.
