@@ -65,7 +65,7 @@ La estructura, se vería así:
 ⬇️  
 - Que objetivamente coincide con un problema pragmático.  
 ⬇️  
-- Solo así, en este momento, tenemos un problema real con una solución real.
+- Solo así, en este momento, tenemos un problema real con una posible y probable solución real.
 
 
 # Consideraciones finales.
